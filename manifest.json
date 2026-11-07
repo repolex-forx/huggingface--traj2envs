@@ -1,0 +1,45 @@
+{
+  "manifest_version": "1.0",
+  "org": "huggingface",
+  "repo": "traj2envs",
+  "versions": [
+    {
+      "commit": "a09204ed6d4b38ae549acce3ba462f5561367556",
+      "parsed_at": "2026-11-07T22:00:41.093714+00:00",
+      "filetree": "filetree/a09204ed6d4b38ae549acce3ba462f5561367556.nq.gz",
+      "blobs": [
+        "blob/299ca0b73291b055b89ce8bac97d6271d128fb65.nq.gz",
+        "blob/c46c20189865f2c93d497015f84abd2e7ef6c838.nq.gz",
+        "blob/b267d2f1b8e50a6bd284733c0012414ec8733251.nq.gz",
+        "blob/2edb9ae3c40bec14bd4693afe5fbd491b63746bd.nq.gz",
+        "blob/aacc5847cf74b67bcb7880689041ee14b84ddea5.nq.gz",
+        "blob/e30e401f70171c7ea68471d8648325fb28447eaf.nq.gz",
+        "blob/708af40e94aa23ce9190e230079537153282dd85.nq.gz",
+        "blob/d1774acab08fcde98f360fbd5efccfe9ed6e0f47.nq.gz",
+        "blob/3f64ce0cbc65522bf19945015f8955114042b8f4.nq.gz",
+        "blob/96b1ff00452e82a1488a5fe81e3a184370a5cc42.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/264ab15b2f8d99744f57cc1619834effbd037fc9.nq.gz",
+        "blob/0388c4e6eb2f5c036479d8d847cd8dc8433c2dd4.nq.gz",
+        "blob/b98ccb57c840bc36f7cb483871434b2ded97eb93.nq.gz",
+        "blob/20b6586636c2c60e462df63e08cebfa9f2cfdc21.nq.gz",
+        "blob/787b4806f5c11cc32f47878dc597e192a568566c.nq.gz",
+        "blob/aae6521279b1ec5981a2099331420ebdee27d80c.nq.gz",
+        "blob/f0f4129b0dddc216f56c7f406a6754512a02a20b.nq.gz",
+        "blob/d1d74d326451c0b2f211503cf3119e6d7714cbea.nq.gz",
+        "blob/5fa7b72e67a16ba19fd28612fad52a8f75d36464.nq.gz",
+        "blob/be50fb7d87ca88fb4631aec1ecd64ed5ff82ec67.nq.gz",
+        "blob/9b4250eac107e4c2aa5243fa382e73fc6a5d7238.nq.gz",
+        "blob/0befa1cbbcc6a0d45f23121b1b5caade53160eb3.nq.gz",
+        "blob/1dc4a6a2bfac4bfd4c5ed79b3e7836c86711a880.nq.gz",
+        "blob/ff4b609a98efc668559b8349d7a08a57813f3345.nq.gz",
+        "blob/04647228f637694972fcec3497a2b2f2581afc0e.nq.gz",
+        "blob/eb2eda7e10256f9baaa4d3897232fe61eef3d464.nq.gz",
+        "blob/2c5cbff5fa1bb51a428d65bb2b187cfd9723892a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
