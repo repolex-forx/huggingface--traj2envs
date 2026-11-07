@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/traj2envs/commit/a09204ed6d4b38ae549acce3ba462f5561367556",
       "git:hexsha": "a09204ed6d4b38ae549acce3ba462f5561367556",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
